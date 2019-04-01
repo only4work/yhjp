@@ -743,8 +743,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:29px;
-  height:16px;
+  width:30px;
+  height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -757,8 +757,8 @@
   position:absolute;
   left:40px;
   top:22px;
-  width:29px;
-  height:16px;
+  width:30px;
+  height:17px;
 }
 .u45 {
   position:absolute;
@@ -1144,20 +1144,11 @@
   position:absolute;
   left:104px;
   top:98px;
-  width:300px;
-  height:210px;
-  overflow:hidden;
 }
 #u70_state0 {
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:300px;
-  height:210px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u70_state0_content {
@@ -1250,16 +1241,10 @@
   outline-style:none;
 }
 #u70_state1 {
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:300px;
-  height:210px;
   visibility:hidden;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u70_state1_content {
@@ -1413,14 +1398,14 @@
   left:4px;
   top:1px;
   width:242px;
-  height:40px;
+  height:41px;
 }
 #u83_input {
   position:absolute;
   left:0px;
   top:0px;
   width:242px;
-  height:40px;
+  height:41px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
