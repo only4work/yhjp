@@ -29,6 +29,8 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -224,4 +226,9 @@
 ._形状2 {
   font-size:13px;
   color:#000000;
+}
+.font_awesome_5_free_solid {
+  font-family:'Font Awesome 5 Free Bold', 'Font Awesome 5 Free';
+  font-weight:900;
+  font-style:normal;
 }
