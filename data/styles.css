@@ -7,39 +7,9 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.ellipse {
-}
-._文本段落 {
-  font-family:'微软雅黑 Regular', '微软雅黑';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  color:#949494;
-  text-align:left;
-  line-height:22px;
-}
-._一级标题 {
-  font-family:'微软雅黑 Regular', '微软雅黑';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
 ._图片 {
 }
-.placeholder {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
-}
-._一级标题1 {
+._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-size:32px;
@@ -78,23 +48,18 @@
   font-size:14px;
   text-align:left;
 }
-._文本段落1 {
+._文本段落 {
   text-align:left;
 }
-.paragraph {
-  text-align:left;
+._流程形状 {
 }
 .line {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
 }
 .text_area {
   color:#000000;
   text-align:left;
 }
-.droplist {
+.list_box {
   color:#000000;
   text-align:left;
 }
@@ -104,87 +69,36 @@
 .radio_button {
   text-align:left;
 }
-._流程形状 {
+.table_cell {
 }
-.heading_1 {
-  font-family:'Arial Negreta', 'Arial';
-  font-weight:700;
-  font-size:32px;
+.sticky_3 {
   text-align:left;
 }
-.heading_2 {
-  font-family:'Arial Negreta', 'Arial';
-  font-weight:700;
-  font-size:24px;
+._文本段落1 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#949494;
   text-align:left;
+  line-height:22px;
 }
-.horizontal_line {
+.box_1 {
 }
-.paragraph1 {
-  text-align:left;
+.button {
 }
-.heading_21 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
-  font-size:24px;
-  text-align:left;
+.primary_button {
+  color:#FFFFFF;
+}
+._图片1 {
+}
+._形状 {
 }
 .shape {
-}
-._60号字_如金额展示、金额输入） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-size:30px;
-  text-align:left;
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
   font-family:'PingFang SC Regular', 'PingFang SC';
   font-size:18px;
-  text-align:left;
-}
-.box_2 {
-}
-.image {
-  color:#000000;
-}
-.vertical_line {
-}
-.checkbox1 {
-  text-align:left;
-}
-.radio_button1 {
-  text-align:left;
-}
-.table {
-}
-.table_cell {
-}
-._连接线 {
-}
-.iconfont {
-  font-family:'iconfont Regular', 'iconfont';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#666666;
-}
-._形状 {
-}
-._水平线 {
-}
-._图片1 {
-  color:#000000;
-}
-._垂直线 {
-}
-.line1 {
-}
-.box_3 {
-}
-.box_11 {
-}
-._34号字_单行列表内，左方主标题文字字） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-size:17px;
   text-align:left;
 }
 ._32号字_单行列表内，右方操作说明的文字__） {
@@ -192,43 +106,8 @@
   font-size:16px;
   text-align:left;
 }
-._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-size:15px;
-  text-align:left;
-}
-._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-size:14px;
-  text-align:left;
-}
-.axuretraining {
-  font-family:'Arial Normal', 'Arial';
-  font-size:14px;
-  color:#666666;
-  text-align:left;
-  line-height:24px;
-}
-._文本段落2 {
-  text-align:left;
-}
-._形状1 {
-  font-size:14px;
-}
-.flow_shape {
-}
-.icon {
-}
-._图片2 {
-  font-size:13px;
+.image {
   color:#000000;
 }
-._形状2 {
-  font-size:13px;
-  color:#000000;
-}
-.font_awesome_5_free_solid {
-  font-family:'Font Awesome 5 Free Bold', 'Font Awesome 5 Free';
-  font-weight:900;
-  font-style:normal;
+.box_2 {
 }
