@@ -71,6 +71,15 @@
 }
 .table_cell {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#C9C9C9;
+  text-align:center;
+  line-height:normal;
+}
 .sticky_3 {
   text-align:left;
 }
@@ -110,4 +119,6 @@
   color:#000000;
 }
 .box_2 {
+}
+.flow_shape {
 }
